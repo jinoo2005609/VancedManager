@@ -1,6 +1,6 @@
 package com.vanced.manager.adapter
 
-import android.content.Context
+/*import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.appcompat.content.res.AppCompatResources
@@ -61,8 +61,8 @@ class SponsorAdapter(
     override fun getItemCount(): Int = 2
 
     companion object {
-        const val BRAVE = "https://vancedapp.com/brave"
-        const val ADGUARD = "https://adguard.com/?aid=31141&source=manager"
+        const val BRAVE = "https://vancedapp.com/"
+        const val ADGUARD = "https://vancedapp.com/"
     }
 
-}
+}*/

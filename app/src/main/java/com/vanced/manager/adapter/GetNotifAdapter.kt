@@ -4,7 +4,6 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.google.firebase.messaging.FirebaseMessaging
 import com.vanced.manager.R
 import com.vanced.manager.databinding.ViewNotificationSettingBinding
 import com.vanced.manager.model.NotifModel
@@ -66,12 +65,6 @@ class GetNotifAdapter(private val context: Context) :
 
     override fun onBindViewHolder(holder: GetNotifViewHolder, position: Int) {
         holder.bind(position)
-        holder.switch.setOnCheckedListener { _, isChecked ->
-            when (isChecked) {
-                true -> FirebaseMessaging.getInstance().subscribeToTopic(apps[position].topic)
-                false -> FirebaseMessaging.getInstance().unsubscribeFromTopic(apps[position].topic)
-            }
-        }
     }
 
     override fun getItemCount(): Int = 3

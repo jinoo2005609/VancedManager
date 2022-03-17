@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "840099702732",
-    "firebase_url": "https://vanced-manager-official.firebaseio.com",
+    "firebase_url": "",
     "project_id": "vanced-manager-official",
-    "storage_bucket": "vanced-manager-official.appspot.com"
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -15,20 +15,20 @@
       },
       "oauth_client": [
         {
-          "client_id": "840099702732-4fjjofq6on2bpd7jb6f96bk0mkrjkkf6.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAPI1RUaoCHmmWz9-TLvTKYPYs0ZVKkS2U"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "840099702732-4fjjofq6on2bpd7jb6f96bk0mkrjkkf6.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]

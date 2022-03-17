@@ -3,8 +3,6 @@ plugins {
     kotlin("android")
     kotlin("kapt")
     id("com.google.gms.google-services")
-    id("com.google.firebase.crashlytics")
-    id("com.google.firebase.firebase-perf")
     id("androidx.navigation.safeargs.kotlin")
     id("kotlin-android")
 }
@@ -130,10 +128,4 @@ dependencies {
 
     // Layout
     implementation("com.google.android.flexbox:flexbox:3.0.0")
-
-    // Firebase
-    implementation("com.google.firebase:firebase-analytics-ktx:19.0.2")
-    implementation("com.google.firebase:firebase-crashlytics:18.2.3")
-    implementation("com.google.firebase:firebase-messaging:22.0.0")
-    implementation("com.google.firebase:firebase-perf:20.0.3")
 }

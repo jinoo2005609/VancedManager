@@ -12,11 +12,6 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.vanced.manager.R
-import com.vanced.manager.adapter.LinkAdapter.Companion.DISCORD
-import com.vanced.manager.adapter.LinkAdapter.Companion.REDDIT
-import com.vanced.manager.adapter.LinkAdapter.Companion.TELEGRAM
-import com.vanced.manager.adapter.LinkAdapter.Companion.TWITTER
-import com.vanced.manager.adapter.SponsorAdapter.Companion.BRAVE
 import com.vanced.manager.model.ButtonTag
 import com.vanced.manager.model.DataModel
 import com.vanced.manager.model.RootDataModel
@@ -63,11 +58,6 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     fun openUrl(context: Context, url: String) {
         val color: Int =
             when (url) {
-                DISCORD -> R.color.Discord
-                TELEGRAM -> R.color.Telegram
-                TWITTER -> R.color.Twitter
-                REDDIT -> R.color.Reddit
-                BRAVE -> R.color.Brave
                 else -> R.color.Vanced
             }
 

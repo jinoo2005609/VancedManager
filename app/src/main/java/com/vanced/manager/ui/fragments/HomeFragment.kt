@@ -19,7 +19,7 @@ import com.vanced.manager.BuildConfig.VERSION_CODE
 import com.vanced.manager.R
 import com.vanced.manager.adapter.ExpandableAppListAdapter
 import com.vanced.manager.adapter.LinkAdapter
-import com.vanced.manager.adapter.SponsorAdapter
+//import com.vanced.manager.adapter.SponsorAdapter
 import com.vanced.manager.core.ui.base.BindingFragment
 import com.vanced.manager.core.ui.ext.showDialog
 import com.vanced.manager.databinding.FragmentHomeBinding
@@ -82,7 +82,7 @@ class HomeFragment : BindingFragment<FragmentHomeBinding>() {
                 lm.justifyContent = JustifyContent.SPACE_EVENLY
                 layoutManager = lm
                 setHasFixedSize(true)
-                adapter = SponsorAdapter(requireActivity(), viewModel)
+                //adapter = SponsorAdapter(requireActivity(), viewModel)
             }
 
             recyclerLinks.apply {

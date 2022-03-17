@@ -67,7 +67,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
                     android:scheme="https"
-                    android:host="api.vancedapp.com"/>
+                    android:host="vanced.esherloon.com"/>
 
             </intent-filter>
 
@@ -84,20 +84,6 @@
                 android:resource="@xml/file_provider" />
 
         </provider>
-
-        <service
-            android:name=".core.firebase.CloudMessaging"
-            android:exported="false">
-
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-
-        </service>
-
-        <meta-data
-            android:name="com.google.firebase.messaging.default_notification_icon"
-            android:resource="@drawable/ic_stat_name" />
 
         <service android:name=".core.installer.AppUninstallerService" />
         <service android:name=".core.installer.AppInstallerService" />
