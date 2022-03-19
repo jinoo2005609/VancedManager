@@ -12,6 +12,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
+import  com.vanced.manager.BuildConfig.VERSION_CODE
 import com.vanced.manager.R
 import com.vanced.manager.databinding.ActivityMainBinding
 import com.vanced.manager.ui.dialogs.DialogContainer
@@ -48,12 +49,11 @@ class MainActivity : AppCompatActivity() {
         }
 
         initDialogs(intent.getBooleanExtra("firstLaunch", false))
-        /*manager.observe(this) {
-            val VERSION_CODE = 0
+        manager.observe(this) {
             if (manager.value?.int("versionCode") ?: 0 > VERSION_CODE) {
-
+                ManagerUpdateDialog.newInstance(true).show(this)
             }
-        }*/
+        }
     }
 
     override fun onBackPressed() {

@@ -2,7 +2,6 @@ package com.vanced.manager.model
 
 import android.content.Context
 import androidx.annotation.DrawableRes
-import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData
 import com.beust.klaxon.JsonObject
 import com.vanced.manager.utils.PackageHelper

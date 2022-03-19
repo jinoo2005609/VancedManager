@@ -1,10 +1,8 @@
 package com.vanced.manager.model
 
 import android.content.Context
-import android.graphics.drawable.Drawable
 import android.os.Build
 import androidx.annotation.DrawableRes
-import androidx.core.content.ContextCompat
 import androidx.lifecycle.*
 import com.beust.klaxon.JsonObject
 import com.vanced.manager.R
