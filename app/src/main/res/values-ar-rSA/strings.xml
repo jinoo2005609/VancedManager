@@ -47,8 +47,6 @@
     <string name="category_behaviour">السلوك</string>
     <string name="clear_files">مسح الملفات التي تم تنزيلها</string>
     <string name="cleared_files">تم مسح الملفات بنجاح</string>
-    <string name="firebase_summary">هذا يتيح لنا جمع المعلومات عن أداء التطبيق وسجلات الأعطال</string>
-    <string name="firebase_title">تحليلات Firebase</string>
     <string name="language_title">اللغة</string>
     <string name="link_custom_tabs">سيتم فتح الروابط في علامات تبويب مخصصة لمتصفح كروم</string>
     <string name="link_title">استخدم علامات تبويب مخصصة لمتصفح كروم</string>

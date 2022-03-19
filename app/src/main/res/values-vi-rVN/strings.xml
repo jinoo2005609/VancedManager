@@ -47,8 +47,6 @@
     <string name="category_behaviour">Ứng dụng</string>
     <string name="clear_files">Xóa các file đã tải về</string>
     <string name="cleared_files">Xóa các file thành công</string>
-    <string name="firebase_summary">Cho phép chúng tôi thu thập thông tin về hiệu suất và sự cố của ứng dụng</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Ngôn ngữ</string>
     <string name="link_custom_tabs">Các liên kết sẽ mở trong Chrome Custom Tabs</string>
     <string name="link_title">Sử dụng Chrome Custom Tabs</string>

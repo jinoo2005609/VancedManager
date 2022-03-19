@@ -47,8 +47,6 @@
     <string name="category_behaviour">আচরণ</string>
     <string name="clear_files">ডাউনলোড করা ফাইলগুলি সাফ করুন</string>
     <string name="cleared_files">সাফল্যের সাথে ফাইলগুলি সাফ করা হয়েছে</string>
-    <string name="firebase_summary">এটি অ্যাপ্লিকেশন কর্মক্ষমতা এবং ক্র্যাশ লগ সম্পর্কিত তথ্য আমাদের দিবে।</string>
-    <string name="firebase_title">ফায়ারবেস বিশ্লেষণ</string>
     <string name="language_title">ভাষা</string>
     <string name="link_custom_tabs">লিঙ্কগুলি ক্রোম কাস্টম ট্যাবসে খোলা হবে</string>
     <string name="link_title">ক্রোম কাস্টম ট্যাবস ব্যবহার করুন</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">Zachowanie</string>
     <string name="clear_files">Wyczyść pobrane pliki</string>
     <string name="cleared_files">Pomyślnie wyczyszczono pliki</string>
-    <string name="firebase_summary">To pozwala nam zbierać informacje o wydajności aplikacji i dziennikach awarii</string>
-    <string name="firebase_title">Analityka Firebase</string>
     <string name="language_title">Język</string>
     <string name="link_custom_tabs">Linki zostaną otwarte w niestandardowych kartach Chrome</string>
     <string name="link_title">Używaj niestandardowych kart Chrome</string>

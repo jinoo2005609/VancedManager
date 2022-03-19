@@ -47,8 +47,6 @@
     <string name="category_behaviour">Davranış</string>
     <string name="clear_files">Endirilmiş faylları təmizlə</string>
     <string name="cleared_files">Fayllar uğurla təmizləndi</string>
-    <string name="firebase_summary">Bu bizə tətbiq performansı və çökmə jurnalı haqqında məlumat yığmağa imkan verir</string>
-    <string name="firebase_title">Firebase Analitikləri</string>
     <string name="language_title">Dil</string>
     <string name="link_custom_tabs">Bağlantılar Chrome Özəl Vərəqlərində açılacaq</string>
     <string name="link_title">Chrome Özəl Vərəqlərini istifadə et</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">Viselkedés</string>
     <string name="clear_files">Letöltött fájlok törlése</string>
     <string name="cleared_files">Sikeresen törölte a fájlokat</string>
-    <string name="firebase_summary">Ezzel megengedi hogy információkat gyűjtsünk az alkalmazás teljesítményéről és az összeomlási naplóról</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Nyelv</string>
     <string name="link_custom_tabs">A linkek egyéni Chrome ablakban nyílnak meg</string>
     <string name="link_title">Egyéni Chrome lapok használata</string>

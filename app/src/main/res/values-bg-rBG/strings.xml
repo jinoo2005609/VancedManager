@@ -47,8 +47,6 @@
     <string name="category_behaviour">Поведение</string>
     <string name="clear_files">Изчисти изтеглените файлове</string>
     <string name="cleared_files">Файловете са изчистени успешно</string>
-    <string name="firebase_summary">Позволява ни да събираме информация за поведението на приложението и доклади за сривове</string>
-    <string name="firebase_title">Firebase анализ</string>
     <string name="language_title">Език</string>
     <string name="link_custom_tabs">Връзките ще се отварят в персонализирани раздели на Chrome</string>
     <string name="link_title">Ползвай персонализирани раздели на Chrome</string>

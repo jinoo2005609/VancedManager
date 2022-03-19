@@ -47,8 +47,6 @@
     <string name="category_behaviour">Oppførsel</string>
     <string name="clear_files">Fjern nedlastede filer</string>
     <string name="cleared_files">Valgte filer er fjernet</string>
-    <string name="firebase_summary">Dette lar oss samle informasjon om app-ytelse og krasj-logger</string>
-    <string name="firebase_title">Firebase analyser</string>
     <string name="language_title">Språk</string>
     <string name="link_custom_tabs">Lenker vil åpne i Chrome Custom Tabs</string>
     <string name="link_title">Bruk Chrome Custom Tabs</string>

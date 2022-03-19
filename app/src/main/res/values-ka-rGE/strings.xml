@@ -47,8 +47,6 @@
     <string name="category_behaviour">ფუნქციები</string>
     <string name="clear_files">გადმოწერილი ფაილების გაწმენდა</string>
     <string name="cleared_files">ფაილები წარმატებით გაიწმინდა</string>
-    <string name="firebase_summary">ეს გვაძლევს უფლებას მოვიპოვოთ ინფორმაცია აპის მუშაობის შესახებ</string>
-    <string name="firebase_title">Firebase-ის ანალიტიკა</string>
     <string name="language_title">ენა</string>
     <string name="link_custom_tabs">ლინკები გაიხსნება Chrome Custom Tabs-ში</string>
     <string name="link_title">გამოიყენეთ Chrome Custom Tabs</string>

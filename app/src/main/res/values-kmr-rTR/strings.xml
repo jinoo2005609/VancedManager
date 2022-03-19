@@ -47,8 +47,6 @@
     <string name="category_behaviour">Tevger</string>
     <string name="clear_files">Pelên dakêşandî paqij bikin</string>
     <string name="cleared_files">Pelên bi serkeftî hatin paqijkirin</string>
-    <string name="firebase_summary">Ev dibe ku em di derbarê performansa sepan û tomarê têkçûyî de agahdariyan berhev bikin</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Ziman</string>
     <string name="link_custom_tabs">Girêdan dê di hilpekên taybet ên Chrome\'ê de vebin</string>
     <string name="link_title">Hilpekên Chrome\'ê yên taybet bi kar bîne</string>

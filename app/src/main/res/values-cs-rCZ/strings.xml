@@ -47,8 +47,6 @@
     <string name="category_behaviour">Chování</string>
     <string name="clear_files">Vymazat stažené soubory</string>
     <string name="cleared_files">Vymazání souborů proběhlo úspěšně</string>
-    <string name="firebase_summary">Toto nám umožňuje shromažďovat informace o výkonu aplikace a záznamy o selhání</string>
-    <string name="firebase_title">Firebase analytika</string>
     <string name="language_title">Jazyk</string>
     <string name="link_custom_tabs">Odkazy se budou otevírat na vlastních kartách prohlížeče Chrome</string>
     <string name="link_title">Používat vlastní karty prohlížeče Chrome</string>

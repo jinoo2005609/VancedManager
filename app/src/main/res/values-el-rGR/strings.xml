@@ -47,8 +47,6 @@
     <string name="category_behaviour">Συμπεριφορά</string>
     <string name="clear_files">Εκκαθάριση ληφθέντων αρχείων</string>
     <string name="cleared_files">Επιτυχής εκκαθάριση αρχείων</string>
-    <string name="firebase_summary">Αυτό μας επιτρέπει να συλλέγουμε πληροφορίες σχετικά με την επίδοση της εφαρμογής και σχετικά με καταγραφές σφαλμάτων λογισμικού</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Γλώσσα</string>
     <string name="link_custom_tabs">Οι σύνδεσμοι θα ανοίγουν σε προσαρμοσμένες καρτέλες chrome</string>
     <string name="link_title">Χρήση προσαρμοσμένων καρτέλων Chrome</string>

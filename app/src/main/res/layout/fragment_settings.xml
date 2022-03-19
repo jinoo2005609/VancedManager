@@ -35,14 +35,6 @@
                 tools:itemCount="3"
                 tools:listitem="@layout/view_preference_switch" />
 
-            <com.vanced.manager.ui.core.PreferenceSwitch
-                android:id="@+id/firebase"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:switch_def_value="true"
-                app:switch_summary="@string/firebase_summary"
-                app:switch_title="@string/firebase_title" />
-
             <com.vanced.manager.ui.core.EmptyPreference
                 android:id="@+id/manager_variant"
                 android:layout_width="match_parent"

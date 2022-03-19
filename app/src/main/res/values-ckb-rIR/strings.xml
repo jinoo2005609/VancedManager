@@ -47,8 +47,6 @@
     <string name="category_behaviour">ڕێکخستن</string>
     <string name="clear_files">سڕینەوەی فایلە داگیراوەکان</string>
     <string name="cleared_files">فایلەکان بەسەرکەتوویی سڕانەوە</string>
-    <string name="firebase_summary">کۆکردنەوەی زانیاری لەکاتی بوونی کێشەو تۆماری هەڵە لە بەرنامەکەدا </string>
-    <string name="firebase_title">Firebase شیکردنەوەی</string>
     <string name="language_title">زمان</string>
     <string name="link_custom_tabs">بەستەرەکان لە پەنجەرەی تایبەتی گۆگڵ کرۆمدا دەکرێنەوە</string>
     <string name="link_title">بەکارهێنانی پەنجەرەی تایبەتی گۆگڵ کرۆم</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">Käyttäytyminen</string>
     <string name="clear_files">Clear downloaded files</string>
     <string name="cleared_files">Successfully cleared files</string>
-    <string name="firebase_summary">This lets us collect information about app performance and crash logs</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Language</string>
     <string name="link_custom_tabs">Linkit aukeavat Chromen mukautetuissa välilehdissä</string>
     <string name="link_title">Käytä Chromen mukautettuja välilehtiä</string>
