@@ -14,7 +14,7 @@ android {
         applicationId = "com.vanced.manager"
         minSdk = 21
         targetSdk = 31
-        versionCode = 262
+        versionCode = 220319
         versionName = "2.6.2 (Crimson)"
 
         vectorDrawables {
