@@ -1,7 +1,7 @@
 # Vanced Manager
 <div>
 
-[![Github All Releases](https://img.shields.io/github/downloads/jinoo2005609/VancedManager/total.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/jinoo2005609/VancedManager.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/jinoo2005609/VancedManager/total.svg?style=for-the-badge)](https://github.com/jinoo2005609/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/jinoo2005609/VancedManager.svg?style=for-the-badge)](https://github.com/jinoo2005609/VancedManager/releases/latest)
 
 </div>
 
@@ -28,7 +28,7 @@ After 3 months of development, we are finally ready to Introduce [Vanced Manager
 <!-- ##### Background download/installation feature is no longer supported due to problems with some ROMs, please do NOT report issues regarding background activity. -->
 
 ## Contributions
-Pull Requests should be made to the [Dev](https://github.com/YTVanced/VancedManager) Branch as that is the working branch, master is for Release code only.
+Pull Requests should be made to the [Dev](https://github.com/jinoo2005609/VancedManager) Branch as that is the working branch, master is for Release code only.
 
 For anyone who wants to provide translations please submit them to this [link](https://crowdin.com/project/vanced-manager) as we also use it for YouTube Vanced. Any issues with translations should be posted there too.
 
@@ -40,7 +40,7 @@ For anyone who wants to provide translations please submit them to this [link](h
 
 <div>
 
-[![Build](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml)
+[![Build](https://github.com/jinoo2005609/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/jinoo2005609/VancedManager/actions/workflows/debug.yml)
 
 </div>
 
