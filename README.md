@@ -1,7 +1,7 @@
 # Vanced Manager
 <div>
 
-[![Github All Releases](https://img.shields.io/github/downloads/YTVanced/VancedManager/total.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/YTVanced/VancedManager.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/jinoo2005609/VancedManager/total.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/jinoo2005609/VancedManager.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest)
 
 </div>
 
@@ -11,7 +11,7 @@ Hi, when we released Vanced 15.05.54, people were upset because it used the .apk
 
 Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall Vanced and MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how Vanced Manager was born.  
   
-After 3 months of development, we are finally ready to Introduce [Vanced Manager](https://github.com/YTVanced/VancedManager) to the masses!!
+After 3 months of development, we are finally ready to Introduce [Vanced Manager](https://github.com/jinoo2005609/VancedManager) to the masses!!
 
 ## Features
 
