@@ -47,8 +47,6 @@
     <string name="category_behaviour">Comportamiento</string>
     <string name="clear_files">Limpiar archivos descargados</string>
     <string name="cleared_files">Archivos limpiados exitosamente</string>
-    <string name="firebase_summary">Esto nos permite recopilar información sobre el rendimiento de la aplicación y los registros de errores</string>
-    <string name="firebase_title">Analíticas de Firebase</string>
     <string name="language_title">Idioma</string>
     <string name="link_custom_tabs">Links serán abiertos en Chrome Custom Tabs</string>
     <string name="link_title">Usar Chrome Custom Tabs</string>

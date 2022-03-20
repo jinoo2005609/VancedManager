@@ -47,8 +47,6 @@
     <string name="category_behaviour">Comportamento</string>
     <string name="clear_files">Cancella i file scaricati</string>
     <string name="cleared_files">Cancellazione file riuscita</string>
-    <string name="firebase_summary">Questo ci consente di raccogliere informazioni sulle prestazioni dell\'app ed i registri sui crash</string>
-    <string name="firebase_title">Analisi Firebase</string>
     <string name="language_title">Lingua</string>
     <string name="link_custom_tabs">I link verranno aperti nelle Schede Personalizzate di Chrome</string>
     <string name="link_title">Utilizza le Schede Personalizzate di Chrome</string>

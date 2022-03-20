@@ -47,8 +47,6 @@
     <string name="category_behaviour">Behavior</string>
     <string name="clear_files">Dosiyayên daxistî paqij bike</string>
     <string name="cleared_files">Dosiya, biserketî paqij bûn</string>
-    <string name="firebase_summary">Ev yek dihêle ku em di bara performansa sepanê û tomarên hilweşiyayî de agahiyan berhev bikin</string>
-    <string name="firebase_title">Analîza Firebase\'ê</string>
     <string name="language_title">Ziman</string>
     <string name="link_custom_tabs">Girêdan dê di hilpekên taybet ên Chrome\'ê de vebin</string>
     <string name="link_title">Hilpekên Chrome\'ê yên taybet bi kar bîne</string>

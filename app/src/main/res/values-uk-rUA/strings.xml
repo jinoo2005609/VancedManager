@@ -47,8 +47,6 @@
     <string name="category_behaviour">Поведінка</string>
     <string name="clear_files">Очистити завантажені файли</string>
     <string name="cleared_files">Файли було успішно очищено</string>
-    <string name="firebase_summary">Це дозволяє нам збирати інформацію про продуктивність додатка та журнали збоїв</string>
-    <string name="firebase_title">Аналітика Firebase</string>
     <string name="language_title">Мова</string>
     <string name="link_custom_tabs">Відкривати посилання в Chrome Custom Tabs</string>
     <string name="link_title">Використовувати Chrome Custom Tabs</string>

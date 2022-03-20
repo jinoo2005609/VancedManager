@@ -47,8 +47,6 @@
     <string name="category_behaviour">Паводзіны</string>
     <string name="clear_files">Выдаліць спампованыя файлы</string>
     <string name="cleared_files">Файлы паспяхова выдалены</string>
-    <string name="firebase_summary">Гэта дазваляе нам збіраць інфармацыю аб прадукцыйнасці праграмы і журналы збояў</string>
-    <string name="firebase_title">Аналітыка Firebase</string>
     <string name="language_title">Мова</string>
     <string name="link_custom_tabs">Адкрываць спасылкі ў Chrome Custom Tabs</string>
     <string name="link_title">Выкарыстоўваць Chrome Custom Tabs</string>

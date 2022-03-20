@@ -47,8 +47,6 @@
     <string name="category_behaviour">Comportament</string>
     <string name="clear_files">Esborrar fitxers descarregats</string>
     <string name="cleared_files">Fitxers netejats correctament</string>
-    <string name="firebase_summary">Permet-te\'ns recollir informació sobre el rendiment de l\'aplicació i els registres d\'error</string>
-    <string name="firebase_title">Estadístiques de Firebase</string>
     <string name="language_title">Llengua</string>
     <string name="link_custom_tabs">Els enllaços s\'obriran en pestanyes personalitzades del Chrome</string>
     <string name="link_title">Utilitza pestanyes personalitzades del Chrome</string>

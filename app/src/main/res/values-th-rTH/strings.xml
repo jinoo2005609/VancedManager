@@ -47,8 +47,6 @@
     <string name="category_behaviour">ลักษณะการทำงาน</string>
     <string name="clear_files">ล้างไฟล์ที่ดาวน์โหลดไว้</string>
     <string name="cleared_files">ล้างข้อมูลเรียบร้อยแล้ว</string>
-    <string name="firebase_summary">สำหรับ รวบรวมข้อมูลเกี่ยวกับประสิทธิภาพของแอป และบันทึกข้อขัดข้อง</string>
-    <string name="firebase_title">การวิเคราะห์ Firebase</string>
     <string name="language_title">ภาษา</string>
     <string name="link_custom_tabs">ลิ้งค์จะเปิดไปยังแท็บที่กำหนดเองของ Chrome</string>
     <string name="link_title">ใช้แท็บที่กำหนดเองของ Chrome</string>

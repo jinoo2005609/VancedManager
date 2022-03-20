@@ -47,8 +47,6 @@
     <string name="category_behaviour">התנהגות</string>
     <string name="clear_files">מחק קבצים שהורדו</string>
     <string name="cleared_files">מחיקת הקבצים הסתיימה בהצלחה</string>
-    <string name="firebase_summary">מאפשר לנו לאסוף מידע על ביצועי היישום וסיבות לקריסתו</string>
-    <string name="firebase_title">ניתוח מידע משתמש</string>
     <string name="language_title">שפה</string>
     <string name="link_custom_tabs">קישורים יפתחו בכרטיסיות מותאמות אישית של Chrome</string>
     <string name="link_title">השתמש בכרטיסייה מותאמת אישית של Chrome</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">Kilos</string>
     <string name="clear_files">Tanggalin ang naka-download na files</string>
     <string name="cleared_files">Natagumpayan na tanggalin ang mga files</string>
-    <string name="firebase_summary">Ginagamit ito para sa pag-kolekta ng impormasyon tungkol sa pagganap at crash logs ng app</string>
-    <string name="firebase_title">Firebase Analitiko</string>
     <string name="language_title">Wika</string>
     <string name="link_custom_tabs">Mabubuksan ang mga links sa Chrome Custom Tabs</string>
     <string name="link_title">Gamitin ang Chrome Custom Tabs</string>

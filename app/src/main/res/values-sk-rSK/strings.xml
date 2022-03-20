@@ -47,8 +47,6 @@
     <string name="category_behaviour">Správanie</string>
     <string name="clear_files">Vymazať stiahnuté súbory</string>
     <string name="cleared_files">Súbory boli úspešne vymazané</string>
-    <string name="firebase_summary">Toto nám umožňuje zhromažďovať informácie o výkone aplikácie a logy o zlyhaní</string>
-    <string name="firebase_title">Firebase Analytics</string>
     <string name="language_title">Jazyk</string>
     <string name="link_custom_tabs">Odkazy sa otvoria na vlastných kartách prehliadača Chrome</string>
     <string name="link_title">Používať vlastné karty prehliadača Chrome</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">رفتار</string>
     <string name="clear_files">فایل های دانلود شده را پاک کنید</string>
     <string name="cleared_files">با موفقیت حذف شدند</string>
-    <string name="firebase_summary">این به ما امکان می‌دهد اطلاعاتی درباره عملکرد برنامه و گزارش‌های خرابی جمع‌آوری کنیم</string>
-    <string name="firebase_title">تجزیه و تحلیل بیس</string>
     <string name="language_title">زبان</string>
     <string name="link_custom_tabs">پیوندها در برگه‌های گوگل کروم باز می‌شوند</string>
     <string name="link_title">استفاده از صفحات های گوگل کروم</string>

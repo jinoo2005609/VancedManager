@@ -47,8 +47,6 @@
     <string name="category_behaviour">Comportament</string>
     <string name="clear_files">Ştergeţi fişierele descărcate</string>
     <string name="cleared_files">Fişiere şterse cu succes</string>
-    <string name="firebase_summary">Acest lucru ne permite să colectăm informații despre performanța aplicației și jurnale de eroare</string>
-    <string name="firebase_title">Statistici Firebase</string>
     <string name="language_title">Limbă</string>
     <string name="link_custom_tabs">Link-uri se vor deschide în filele personalizate Chrome</string>
     <string name="link_title">Utilizează file personalizate Chrome</string>

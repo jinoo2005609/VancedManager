@@ -47,8 +47,6 @@
     <string name="category_behaviour">Comportamento</string>
     <string name="clear_files">Limpar ficheiros descarregados</string>
     <string name="cleared_files">Arquivos limpos com sucesso</string>
-    <string name="firebase_summary">Isto permite-nos recolher informações sobre o desempenho da aplicação e registos de falhas</string>
-    <string name="firebase_title">Análise do Firebase</string>
     <string name="language_title">Idioma</string>
     <string name="link_custom_tabs">Os links serão abertos em abas personalizadas do Chrome</string>
     <string name="link_title">Usar abas personalizadas do Chrome</string>

@@ -47,8 +47,6 @@
     <string name="category_behaviour">Dabeecada</string>
     <string name="clear_files">Nadiifi waxyaabaha lasoo dajiyay</string>
     <string name="cleared_files">Waa la nadiifiyay</string>
-    <string name="firebase_summary">Tani waxay noo ogolaanaysaa inaan uruurino xog ku saabsan shaqaynta app-ka iyo kaydinta xogta khaladaadka dhaca</string>
-    <string name="firebase_title">Falanqaynta Firebase</string>
     <string name="language_title">Luuqada</string>
     <string name="link_custom_tabs">Linkiyadu waxay ku furmi doonaan daaqadaha Chrome-ka ee loogu talagalay</string>
     <string name="link_title">Isticmaal Daaqadaha Chrome</string>

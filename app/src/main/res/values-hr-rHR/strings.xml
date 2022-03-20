@@ -47,8 +47,6 @@
     <string name="category_behaviour">Ponašanje</string>
     <string name="clear_files">Ukloni preuzete datoteke</string>
     <string name="cleared_files">Datoteke su uspješno uklonjene</string>
-    <string name="firebase_summary">Ovo nam omogućuje prikupljanje informacija o performansama aplikacije i zapise rušenja</string>
-    <string name="firebase_title">Firebase analitika</string>
     <string name="language_title">Jezik</string>
     <string name="link_custom_tabs">Poveznice će se otvarati u prilagođenim karticama Chroma</string>
     <string name="link_title">Koristi prilagođene kartice Chroma</string>

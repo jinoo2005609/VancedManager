@@ -47,8 +47,6 @@
     <string name="category_behaviour">Perilaku</string>
     <string name="clear_files">Hapus berkas yang terunduh</string>
     <string name="cleared_files">Berhasil menghapus berkas</string>
-    <string name="firebase_summary">Analisis firebase mengizinkan kami mengumpulkan informasi tentang performa aplikasi dan catatan crash</string>
-    <string name="firebase_title">Analisis Firebase</string>
     <string name="language_title">Bahasa</string>
     <string name="link_custom_tabs">Tautan akan terbuka di Chrome Custom Tabs</string>
     <string name="link_title">Gunakan Chrome Custom Tabs</string>

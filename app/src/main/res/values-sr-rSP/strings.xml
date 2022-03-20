@@ -47,8 +47,6 @@
     <string name="category_behaviour">Понашање</string>
     <string name="clear_files">Обриши преузете датотеке</string>
     <string name="cleared_files">Успешно брисање датотека</string>
-    <string name="firebase_summary">Ово нам омогућава да прикупљамо извештаје о перформансама и грешкама</string>
-    <string name="firebase_title">Firebase Анализа</string>
     <string name="language_title">Језик</string>
     <string name="link_custom_tabs">Линкови ће бити отворени у Chrome Custom Tabs</string>
     <string name="link_title">Користите Chrome Custom Tabs</string>

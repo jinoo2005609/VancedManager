@@ -47,8 +47,6 @@
     <string name="category_behaviour">Davranış</string>
     <string name="clear_files">İndirilen dosyaları temizle</string>
     <string name="cleared_files">Dosyalar başarıyla temizlendi</string>
-    <string name="firebase_summary">Uygulama hakkında performans ve hata kayıtlarını toplamamıza izin verir</string>
-    <string name="firebase_title">Firebase Analizi</string>
     <string name="language_title">Dil</string>
     <string name="link_custom_tabs">Linklerin uygulama içerisinde hızlıca açılmasını sağlar</string>
     <string name="link_title">Chrome Özel Sekmeleri\'ni kullan</string>

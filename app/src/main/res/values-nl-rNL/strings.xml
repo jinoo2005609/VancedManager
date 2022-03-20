@@ -47,8 +47,6 @@
     <string name="category_behaviour">Gedrag</string>
     <string name="clear_files">Gedownloade bestanden verwijderen</string>
     <string name="cleared_files">Bestanden succesvol verwijderd</string>
-    <string name="firebase_summary">Hiermee kunnen we informatie over app-prestaties en crashlogs verzamelen</string>
-    <string name="firebase_title">Firebase-analytics</string>
     <string name="language_title">Taal</string>
     <string name="link_custom_tabs">Links zullen openen in aangepaste Chrome-tabs</string>
     <string name="link_title">Aangepaste Chrome-tabs gebruiken</string>

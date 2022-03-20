@@ -47,8 +47,6 @@
     <string name="category_behaviour">ਵਿਹਾਰ</string>
     <string name="clear_files">ਡਾਉਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਸਾਫ਼ ਕਰੋ</string>
     <string name="cleared_files">ਸਫਲਤਾਪੂਰਵਕ ਫਾਈਲਾਂ ਸਾਫ਼ ਕੀਤੀਆਂ</string>
-    <string name="firebase_summary">ਇਹ ਸਾਨੂੰ ਐਪ ਪ੍ਰਦਰਸ਼ਨ ਅਤੇ ਕਰੈਸ਼ ਲੌਗਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਨ ਦਿੰਦਾ ਹੈ</string>
-    <string name="firebase_title">ਫਾਇਰਬੇਸ ਵਿਸ਼ਲੇਸ਼ਣ</string>
     <string name="language_title">ਭਾਸ਼ਾ</string>
     <string name="link_custom_tabs">ਲਿੰਕ ਕਰੋਮ ਕਸਟਮ ਟੈਬਸ ਵਿੱਚ ਖੁੱਲ੍ਹਣਗੇ</string>
     <string name="link_title">ਕਰੋਮ ਕਸਟਮ ਟੈਬਸ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
