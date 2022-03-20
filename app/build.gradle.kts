@@ -24,9 +24,9 @@ android {
         buildConfigField("String[]", "MANAGER_LANGUAGES", "{$languages}")
     }
 
-    lint {
+    /*lint {
         disable("MissingTranslation", "ExtraTranslation")
-    }
+    }*/
 
     applicationVariants.all {
         resValue("string", "versionName", versionName)
