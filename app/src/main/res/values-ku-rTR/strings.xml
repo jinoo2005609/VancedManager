@@ -115,7 +115,5 @@
     <string name="modapk_missing">Dozîna dosiya apk ji bo rûkara reş/tarî ji sazkirinê bi ser neket. Daneyên sepanê ji rêveberê paqij bikin, paşê dîsa biceribîne.</string>
     <string name="path_missing">Piştî sazkirina dabeşkirî, dozîna rêka sazkirina YouTube stokê bi ser neket.</string>
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
-    <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
-    <string name="uninstall">Uninstall</string>
     <string name="uninstall">Uninstall</string>
 </resources>
