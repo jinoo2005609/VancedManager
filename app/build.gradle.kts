@@ -14,7 +14,7 @@ android {
         applicationId = "com.vanced.manager"
         minSdk = 21
         targetSdk = 31
-        versionCode = 220319
+        versionCode = 220320
         versionName = "2.6.3 (Echo)"
 
         vectorDrawables {
