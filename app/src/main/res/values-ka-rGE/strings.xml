@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
     <string name="uninstall">Uninstall</string>
     <string name="redownload">თავიდან გადმოწერა</string>
-    <string name="security_context">დარწმუნდით, რომ აპი გადმოწერეთ vancedapp.com-იდან, Vanced Discord სერვერიდან ან GitHub-იდან</string>
     <string name="version">ვერსია</string>
     <string name="welcome">მოგესალმებით</string>
     <!-- Install Page -->

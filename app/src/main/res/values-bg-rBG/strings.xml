@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Наистина ли искате да деинсталирате %1$s?</string>
     <string name="uninstall">Деинсталиране</string>
     <string name="redownload">Изтегли отново</string>
-    <string name="security_context">Уверете се, че сте изтеглили приложението от vancedapp.com, Vanced Discord сървъра или от Vanced GitHub</string>
     <string name="version">Версия</string>
     <string name="welcome">Добре дошли</string>
     <!-- Install Page -->

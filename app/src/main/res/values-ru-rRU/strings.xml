@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Вы уверены, что вы хотите удалить %1$s?</string>
     <string name="uninstall">Удалить</string>
     <string name="redownload">Скачать заново</string>
-    <string name="security_context">Пожалуйста, убедитесь, что вы скачали это приложение с vancedapp.com, сервера Vanced в Discord или с официального GitHub</string>
     <string name="version">Версия</string>
     <string name="welcome">Добро пожаловать</string>
     <!-- Install Page -->

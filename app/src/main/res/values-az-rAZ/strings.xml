@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">%1$s tətbiqini silmək istəyirsiniz?</string>
     <string name="uninstall">Sil</string>
     <string name="redownload">Yenidən endir</string>
-    <string name="security_context">Tətbiqi vancedapp.com, Vanced Discord server və ya Vanced GitHub\'dan endirdiyinizə əmin olun</string>
     <string name="version">Versiya</string>
     <string name="welcome">Xoş gəlmisiniz</string>
     <!-- Install Page -->

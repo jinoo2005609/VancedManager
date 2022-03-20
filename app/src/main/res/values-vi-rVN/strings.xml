@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Bạn có chắc chắn muốn gỡ cài đặt %1$s không?</string>
     <string name="uninstall">Gỡ cài đặt</string>
     <string name="redownload">Tải lại</string>
-    <string name="security_context">Chắc chắn rằng bạn đã tải ứng dụng này từ vancedapp.com, server Discord của Vanced hoặc GitHub của Vanced</string>
     <string name="version">Phiên bản</string>
     <string name="welcome">Chào mừng</string>
     <!-- Install Page -->

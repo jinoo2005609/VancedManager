@@ -93,7 +93,7 @@
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
     <string name="uninstall">Uninstall</string>
     <string name="redownload">Redownload</string>
-    <string name="security_context">Make sure that you downloaded the app from vancedapp.com, the Vanced Discord server, or the Vanced GitHub</string>
+    <string name="security_context">Make sure that you downloaded Custom Vanced Manager app from vanced.esherloon.com, or GitHub</string>
     <string name="version">Version</string>
     <string name="welcome">Welcome</string>
 

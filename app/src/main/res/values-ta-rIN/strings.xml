@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">%1$s ஐ நிறுவல் நீக்க விரும்புகிறீர்களா?</string>
     <string name="uninstall">நிறுவல் நீக்கு</string>
     <string name="redownload">மீண்டும் பதிவிறக்கு</string>
-    <string name="security_context">பயன்பாட்டை vancedapp.com, Vanced Discord சேவையகம் அல்லது Vanced GitHub இலிருந்து பதிவிறக்கம் செய்துள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்</string>
     <string name="version">பதிப்பு</string>
     <string name="welcome">வரவேற்பு</string>
     <!-- Install Page -->

@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Er du sikker på at du vil avinstallere %1$s?</string>
     <string name="uninstall">Avinstaller</string>
     <string name="redownload">Last ned på nytt</string>
-    <string name="security_context">Sørg for at du lastet ned appen fra vancedapp.com, Vanced Discord server, eller Vanced GitHub</string>
     <string name="version">Versjon</string>
     <string name="welcome">Velkommen</string>
     <!-- Install Page -->

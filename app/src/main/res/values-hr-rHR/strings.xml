@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Sigurno želite deinstalirati %1$s ?</string>
     <string name="uninstall">Deinstaliraj</string>
     <string name="redownload">Ponovno preuzmi</string>
-    <string name="security_context">Aplikaciju obavezno preuzmite s vancedapp.com, Vanced Discord poslužitelja ili Vanced GitHuba</string>
     <string name="version">Inačica</string>
     <string name="welcome">Dobrodošli</string>
     <!-- Install Page -->

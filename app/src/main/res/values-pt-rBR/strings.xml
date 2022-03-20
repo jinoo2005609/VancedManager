@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Tem certeza de que deseja desinstalar %1$s ?</string>
     <string name="uninstall">Desinstalar</string>
     <string name="redownload">Baixar novamente</string>
-    <string name="security_context">Certifique-se de fazer o download do aplicativo em vancedapp.com, no servidor Vanced Discord ou no Vanced GitHub</string>
     <string name="version">Versão</string>
     <string name="welcome">Bem-vindo</string>
     <!-- Install Page -->

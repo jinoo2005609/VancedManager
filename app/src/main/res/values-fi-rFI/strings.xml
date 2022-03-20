@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Oletko varma, että haluat poistaa %1$s asennuksen?</string>
     <string name="uninstall">Poista</string>
     <string name="redownload">Redownload</string>
-    <string name="security_context">Varmista, että latasit sovelluksen osoitteesta vancedapp.com, Vanced Discord-palvelin tai Vanced GitHub</string>
     <string name="version">Version</string>
     <string name="welcome">Tervetuloa</string>
     <!-- Install Page -->

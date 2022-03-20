@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">آیا مطمئنید می‌خواهید حذف نصب کنید %1$s?</string>
     <string name="uninstall">حذف نصب</string>
     <string name="redownload">دانلود مجدد</string>
-    <string name="security_context">مطمئن شوید که برنامه را از vancedapp.com، سرور دیسکورد یا گیت هاپ دانلود کرده اید</string>
     <string name="version">نسخه</string>
     <string name="welcome">خوش آمدید</string>
     <!-- Install Page -->

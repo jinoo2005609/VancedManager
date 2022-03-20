@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Tu bawerî ku tu dixwazî %1$s rakî?</string>
     <string name="uninstall">Rake</string>
     <string name="redownload">Ji nû ve daxîne</string>
-    <string name="security_context">Pê bawer bin ku te ev sepan ji vancedapp.com, servera Discord a Vanced an jî JiGitHub ya Vanced dakêşandine</string>
     <string name="version">Versiyon</string>
     <string name="welcome">Bi xêr hatî</string>
     <!-- Install Page -->

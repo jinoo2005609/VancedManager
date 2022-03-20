@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Sigurado ka ba na gusto mong tanggalin ang %1$s?</string>
     <string name="uninstall">Tanggalin ang app</string>
     <string name="redownload">I-download ulit</string>
-    <string name="security_context">Siguraduhin mo na nai-download mo ang app galing sa vancedapp.com, o sa Discord server ng Vanced, o sa Github ng Vanced</string>
     <string name="version">Bersyon</string>
     <string name="welcome">Maligayang Pagdating</string>
     <!-- Install Page -->

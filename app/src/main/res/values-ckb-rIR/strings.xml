@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">ئایا دڵنیایت لە سڕینەوەی %1$s ؟</string>
     <string name="uninstall">سڕینەوە</string>
     <string name="redownload">داگرتنەوە</string>
-    <string name="security_context">دڵنیابە کە بەرنامەکەت لە سایتی vancedapp.com، سێرڤەری دیسکۆرد یان Vanced GitHub داگرتووە</string>
     <string name="version">وەشان</string>
     <string name="welcome">بەخێربێیت</string>
     <!-- Install Page -->

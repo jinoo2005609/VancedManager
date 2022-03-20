@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">%1$s uygulamasını kaldırmak istediğinden emin misin?</string>
     <string name="uninstall">Kaldır</string>
     <string name="redownload">Tekrar İndir</string>
-    <string name="security_context">Uygulamayı vancedapp.com, Vanced Discord sunucusu, veya Vanced GitHub\'dan indirdiğinizden emin olun</string>
     <string name="version">Sürüm</string>
     <string name="welcome">Hoş Geldiniz</string>
     <!-- Install Page -->

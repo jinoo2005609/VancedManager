@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Είστε βέβαιοι ότι θέλετε να απεγκαταστήσετε το %1$s ;</string>
     <string name="uninstall">Απεγκατάσταση</string>
     <string name="redownload">Επανάληψη λήψης</string>
-    <string name="security_context">Βεβαιωθείτε ότι κάνατε λήψη της εφαρμογής από το vancedapp.com, τον διακομιστή Discord του Vanced ή το GitHub του Vanced</string>
     <string name="version">Έκδοση</string>
     <string name="welcome">Καλώς ορίσατε</string>
     <!-- Install Page -->

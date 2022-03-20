@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Apakah Anda yakin ingin mencopot pemasangan %1$s ?</string>
     <string name="uninstall">Copot pemasangan</string>
     <string name="redownload">Unduh ulang</string>
-    <string name="security_context">Pastikan Anda mengunduh aplikasi ini dari vancedapp.com, server Discord Vanced, atau Vanced Github</string>
     <string name="version">Versi</string>
     <string name="welcome">Selamat datang</string>
     <!-- Install Page -->

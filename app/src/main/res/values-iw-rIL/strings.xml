@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">האם אתה בטוח שברצונך להסיר את ההתקנה של %1$s?</string>
     <string name="uninstall">הסר התקנה</string>
     <string name="redownload">הורד מחדש</string>
-    <string name="security_context">ודא שהורדת את האפליקציה מהאתר vancedapp.com, שרת הדיסקורד של Vanced או מהעמוד של Vanced ב־GitHub</string>
     <string name="version">גרסא</string>
     <string name="welcome">ברוכים הבאים</string>
     <!-- Install Page -->

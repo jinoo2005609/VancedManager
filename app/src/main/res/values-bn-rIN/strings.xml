@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
     <string name="uninstall">Uninstall</string>
     <string name="redownload">পুনরায় ডাউনলোড করুন</string>
-    <string name="security_context">নিশ্চিত করুন যে আপনি অ্যাপটি vancedapp.com, ভ্যান্সড ডিসকার্ড সার্ভার বা ভ্যান্সড গিটহাব থেকে ডাউনলোড করেছেন</string>
     <string name="version">সংস্করণ</string>
     <string name="welcome">স্বাগত</string>
     <!-- Install Page -->

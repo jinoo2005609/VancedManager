@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Kas soovite kindlasti desinstallida %1$s?</string>
     <string name="uninstall">Desinstalli</string>
     <string name="redownload">Lae uuesti alla</string>
-    <string name="security_context">Veenduge, et laadisite rakenduse alla vancedapp.com, Vanced Discordi serverist või Vanced GitHubist</string>
     <string name="version">Versioon</string>
     <string name="welcome">Tere tulemast</string>
     <!-- Install Page -->

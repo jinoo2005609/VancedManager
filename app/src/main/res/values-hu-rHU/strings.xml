@@ -85,7 +85,6 @@ Akarod telepíteni?</string>
     <string name="uninstall_app_text">Biztos el akarod távolítani ezt: %1$s ?</string>
     <string name="uninstall">Eltávolítás</string>
     <string name="redownload">Újra letölt</string>
-    <string name="security_context">Arra kérünk, győződjön meg róla, hogy ezt az alkalmazást a vancedapp.com oldalról, a Vanced Discord szerveréről vagy a Vanced GitHub-ról töltötte le</string>
     <string name="version">Verzió</string>
     <string name="welcome">Üdvözöljük</string>
     <!-- Install Page -->

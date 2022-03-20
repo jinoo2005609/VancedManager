@@ -84,7 +84,7 @@
     <string name="uninstall_app_text">정말로 %1$s 앱을 제거하시겠습니까?</string>
     <string name="uninstall">제거</string>
     <string name="redownload">다시 다운로드</string>
-    <string name="security_context">항상 vancedapp.com, 공식 Vanced 디스코드 서버 또는 공식 GitHub 저장소에서 Vanced Manager 앱을 다운로드해주세요.</string>
+    <string name="security_context">항상 vanced.esherloon.com, 또는 GitHub에서 Custom Vanced Manager 앱을 다운로드해주세요.</string>
     <string name="version">버전</string>
     <string name="welcome">환영합니다</string>
     <!-- Install Page -->

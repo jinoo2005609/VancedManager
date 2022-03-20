@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">هل أنت متأكد أنك تريد إلغاء تثبيت %1$s ؟</string>
     <string name="uninstall">إلغاء التثبيت</string>
     <string name="redownload">إعادة التنزيل</string>
-    <string name="security_context">تأكد من أنك قمت بتنزيل التطبيق من موقع vancedapp.com، أو خادم الديسكورد لڤانسد أو Vanced GitHub</string>
     <string name="version">الإصدار</string>
     <string name="welcome">مرحباً بك</string>
     <!-- Install Page -->

@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Opravdu si přejete odinstalovat aplikaci %1$s?</string>
     <string name="uninstall">Odinstalovat</string>
     <string name="redownload">Stáhnout znovu</string>
-    <string name="security_context">Ujistěte se, že jste si aplikaci stáhli z našeho webu vancedapp.com, z našeho Vanced Discord serveru nebo z našeho GitHubu</string>
     <string name="version">Verze</string>
     <string name="welcome">Vítejte</string>
     <!-- Install Page -->

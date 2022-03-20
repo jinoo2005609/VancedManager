@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
     <string name="uninstall">Uninstall</string>
     <string name="redownload">Dib udaji</string>
-    <string name="security_context">Iska hubi inaad app-ka kaso dajisatay vancedapp.com, xaga martigaliyaha Discord, ama meesha Vanced ee GitHub</string>
     <string name="version">Tirsiga</string>
     <string name="welcome">Soo dhawoow</string>
     <!-- Install Page -->

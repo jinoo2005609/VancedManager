@@ -84,7 +84,6 @@
     <string name="uninstall_app_text">%1$s をアンインストールしてよろしいですか？</string>
     <string name="uninstall">アンインストール</string>
     <string name="redownload">再ダウンロード</string>
-    <string name="security_context">Vancedapp.com、Vanced の Discord サーバーまたは GitHub からアプリをダウンロードしたことを確認してください</string>
     <string name="version">バージョン</string>
     <string name="welcome">ようこそ</string>
     <!-- Install Page -->
