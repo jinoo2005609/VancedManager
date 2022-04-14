@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Πληροφορίες</string>
     <string name="title_guide">Οδηγός για το Vanced</string>
-    <string name="title_home">Διαχειριστής Vanced</string>
     <string name="title_logs">Αρχείο καταγραφής σφαλμάτων</string>
     <string name="title_settings">Ρυθμίσεις</string>
     <string name="update_manager">Ενημέρωση Διαχειριστή Vanced</string>

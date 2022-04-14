@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Apie</string>
     <string name="title_guide">Guide</string>
-    <string name="title_home">Manager</string>
     <string name="title_logs">Logs</string>
     <string name="title_settings">Settings</string>
     <string name="update_manager">Update Manager</string>

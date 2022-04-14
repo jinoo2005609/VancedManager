@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Om</string>
     <string name="title_guide">Guide</string>
-    <string name="title_home">Leder</string>
     <string name="title_logs">Logger</string>
     <string name="title_settings">Innstillinger</string>
     <string name="update_manager">Oppdater administrator</string>

@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">À propos</string>
     <string name="title_guide">Guide</string>
-    <string name="title_home">Gestionnaire</string>
     <string name="title_logs">Journaux</string>
     <string name="title_settings">Paramètres</string>
     <string name="update_manager">Gestionnaire de Mise à Jour</string>

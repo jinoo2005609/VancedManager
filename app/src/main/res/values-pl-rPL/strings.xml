@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">O nas</string>
     <string name="title_guide">Przewodnik</string>
-    <string name="title_home">Menedżer</string>
     <string name="title_logs">Dzienniki</string>
     <string name="title_settings">Ustawienia</string>
     <string name="update_manager">Zaktualizuj Menedżera</string>

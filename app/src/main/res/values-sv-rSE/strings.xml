@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Om</string>
     <string name="title_guide">Guide</string>
-    <string name="title_home">Hanterare</string>
     <string name="title_logs">Loggar</string>
     <string name="title_settings">Inställningar</string>
     <string name="update_manager">Uppdatera hanteraren</string>

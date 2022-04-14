@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">О апликацији</string>
     <string name="title_guide">Водич</string>
-    <string name="title_home">Менаџер</string>
     <string name="title_logs">Дневници</string>
     <string name="title_settings">Поставке</string>
     <string name="update_manager">Освежи Менаџера</string>

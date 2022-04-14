@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Informazioni</string>
     <string name="title_guide">Guida</string>
-    <string name="title_home">Manager</string>
     <string name="title_logs">Registri</string>
     <string name="title_settings">Impostazioni</string>
     <string name="update_manager">Aggiorna Manager</string>

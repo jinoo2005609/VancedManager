@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Giới thiệu</string>
     <string name="title_guide">Hướng dẫn</string>
-    <string name="title_home">Manager</string>
     <string name="title_logs">Nhật ký</string>
     <string name="title_settings">Cài đặt</string>
     <string name="update_manager">Cập nhật Manager</string>

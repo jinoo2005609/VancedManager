@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">Teave</string>
     <string name="title_guide">Juhend</string>
-    <string name="title_home">Haldur</string>
     <string name="title_logs">Logid</string>
     <string name="title_settings">Seaded</string>
     <string name="update_manager">Uuenduste Haldur</string>

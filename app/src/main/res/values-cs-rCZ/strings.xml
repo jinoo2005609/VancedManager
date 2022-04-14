@@ -12,7 +12,6 @@
     <!-- Main Activity -->
     <string name="title_about">O aplikaci</string>
     <string name="title_guide">Průvodce</string>
-    <string name="title_home">Manager</string>
     <string name="title_logs">Záznamy</string>
     <string name="title_settings">Nastavení</string>
     <string name="update_manager">Aktualizovat Manager</string>
