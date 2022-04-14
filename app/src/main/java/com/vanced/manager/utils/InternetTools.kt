@@ -89,13 +89,13 @@ suspend fun loadJson(context: Context) = withContext(Dispatchers.IO) {
         }
         if (connection.responseCode != 200) {
             log(TAG, latestbaseUrl + ": " + connection.responseCode.toString())
-            baseInstallUrl = "https://vanced.esherloon.com/api/v1"
+            baseInstallUrl = "https://bafybeicqb5qoqtxcmjuib3jqi2boxw4g5rpifnn5ys7hbpdmsrvugdoehe.ipfs.cf-ipfs.com/Vanced/api/v1"
         }
     } catch (e: IOException) {
-        baseInstallUrl = "https://vanced.esherloon.com/api/v1"
+        baseInstallUrl = "https://bafybeicqb5qoqtxcmjuib3jqi2boxw4g5rpifnn5ys7hbpdmsrvugdoehe.ipfs.cf-ipfs.com/Vanced/api/v1"
     } catch (e: SocketTimeoutException) {
         log(TAG, "connection timed out")
-        baseInstallUrl = "https://vanced.esherloon.com/api/v1"
+        baseInstallUrl = "https://bafybeicqb5qoqtxcmjuib3jqi2boxw4g5rpifnn5ys7hbpdmsrvugdoehe.ipfs.cf-ipfs.com/Vanced/api/v1"
     }
 
     log(TAG, "Fetching using URL: $baseInstallUrl")
