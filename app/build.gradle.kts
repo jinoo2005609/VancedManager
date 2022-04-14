@@ -14,8 +14,8 @@ android {
         applicationId = "com.vanced.manager"
         minSdk = 21
         targetSdk = 31
-        versionCode = 2203201
-        versionName = "2.6.4 (Pixel Dust)"
+        versionCode = 220414
+        versionName = "2.6.5 (Ocean Eyes)"
 
         vectorDrawables {
             useSupportLibrary = true
